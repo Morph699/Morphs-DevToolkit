@@ -1,4 +1,4 @@
-<img width="848" height="1264" alt="1793014161913-01a177f8-7508-76dd-bc1b-f23f719928da" src="https://github.com/user-attachments/assets/dfa1aede-7bee-4bb7-92ca-9ec62690ab11" />
+<img width="896" height="1195" alt="DevToolkit" src="https://github.com/user-attachments/assets/9baec82d-8075-47d4-9ec6-ea24b58469fa" />
 
 ### **Morphs DevToolkit — The Offline Developer Workstation**
 *Air-Gapped Regex Workbench, Multi-Syntax Formatter, Cryptographic Hasher & JWT Security Inspector*
